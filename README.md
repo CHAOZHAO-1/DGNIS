@@ -17,8 +17,11 @@ Domain adaptation-based fault diagnosis (DAFD) methods have been explored to add
 
 ##  BibTex Citation
 
+
 If you like our paper or code, please use the following BibTex:
-'''
+
+```
+
 @article{zhao2022domain,  
   title={A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis},  
   author={Zhao, Chao and Shen, Weiming},  
@@ -28,4 +31,4 @@ If you like our paper or code, please use the following BibTex:
   year={2022},  
   publisher={Elsevier}  
 }  
-'''
+```
