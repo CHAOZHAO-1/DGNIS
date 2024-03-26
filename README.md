@@ -4,7 +4,7 @@
 
 ## Paper
 
-paper link: [A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0888327022001686)
+Paper link: [A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis](https://www.sciencedirect.com/science/article/pii/S0888327022001686)
 
 ## Abstract
 
@@ -13,5 +13,18 @@ Domain adaptation-based fault diagnosis (DAFD) methods have been explored to add
 ##  Proposed Network 
 
 
+![image](https://github.com/CHAOZHAO-1/DGNIS/blob/main/IMG/F1.png)
 
 ##  BibTex Citation
+
+If you like our paper or code, please use the following BibTex:
+
+@article{zhao2022domain,
+  title={A domain generalization network combing invariance and specificity towards real-time intelligent fault diagnosis},
+  author={Zhao, Chao and Shen, Weiming},
+  journal={Mechanical Systems and Signal Processing},
+  volume={173},
+  pages={108990},
+  year={2022},
+  publisher={Elsevier}
+}
